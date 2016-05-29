@@ -3,3 +3,6 @@ Some text to look at
 Upon inspection and modification all of this added characters 
 should stay at the github server....
 To be locally available this file has to be pulled ... 
+
+These new lines are added locally at the terminal end 
+Locally added lines have to be pusshed to the server 
