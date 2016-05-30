@@ -1,7 +1,7 @@
 <XML>
    <!-- Comment added -->
    <name>Bill</name>
-   <password>123</>
+   <password>123</password>
    <id>2233</id>
  <!-- Comment added as new change -->
 </XML>
